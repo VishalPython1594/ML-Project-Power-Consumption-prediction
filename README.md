@@ -68,14 +68,18 @@ The project follows a structured **machine learning pipeline**:
    ```bash
    git clone https://github.com/VishalPython1594/ML-Project-Power-Consumption-prediction.git
    cd Power-Consumption-ML
+   ```
    
 2. **Install dependencies**:
+   ```bash
    pip install -r requirements.txt
-
+   ```
+   
 3. **Run the model**:
+   ```bash
    python power_consumption_prediction.py
-
-
+   ```
+   
 
 ## 🏆 Certification
 This project is certified by **Learnbay**.
