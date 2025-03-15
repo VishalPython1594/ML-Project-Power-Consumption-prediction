@@ -79,12 +79,11 @@ The project follows a structured **machine learning pipeline**:
    ```bash
    python power_consumption_prediction.py
    ```
-   
 
 ## 🏆 Certification
 This project is certified by **Learnbay**.
 
-![image](https://github.com/user-attachments/assets/ed824ca6-bd62-46ac-acc7-f8a270b4c179)
+[Certificate]![image](https://github.com/user-attachments/assets/ed824ca6-bd62-46ac-acc7-f8a270b4c179)
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit a pull request if you have improvements or new features.
