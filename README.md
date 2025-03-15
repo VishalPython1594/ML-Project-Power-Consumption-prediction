@@ -80,5 +80,4 @@ The project follows a structured **machine learning pipeline**:
 ## 🏆 Certification
 This project is certified by **Learnbay**.
 
-![Certificate](![image](https://github.com/user-attachments/assets/96f01330-2c26-44f0-9e1a-1eeb41081f5b)
-)
+![Certificate](![image](https://github.com/user-attachments/assets/96f01330-2c26-44f0-9e1a-1eeb41081f5b))
